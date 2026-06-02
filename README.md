@@ -7,7 +7,11 @@
 
 
  💫 About Me:
-🔭 I'm currently working on AI-powered applications and real-world projects as a student developer.<br><br>🌱 I'm currently learning Machine Learning, Data Science, Cloud Computing, and System Design.<br><br>👯 I'm looking to collaborate on AI/ML projects, hackathons, and open-source initiatives.<br><br>💬 Ask me about AI/ML, Web Development, AWS, and Hackathons.<br><br>⚡ Fun fact: Most of my learning happens by building projects and competing in hackathons.
+ 
+🔭 I'm currently working on AI-powered applications and real-world projects as a student developer.<br><br>
+🌱 I'm currently learning Machine Learning, Data Science, Cloud Computing, and System Design.<br><br>
+👯 I'm looking to collaborate on AI/ML projects, hackathons, and open-source initiatives.<br><br>💬 Ask me about AI/ML, Web Development, AWS, and Hackathons.<br><br>
+⚡ Fun fact: Most of my learning happens by building projects and competing in hackathons.
 
 
 # 📊 GitHub Stats:
