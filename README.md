@@ -1,10 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:A855F7&text=Yuval%20Patel&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Google%20Student%20Ambassador&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:A855F7&text=Yuval%20Patel&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%7C%20Developer%20%&descAlignY=58"/>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuval%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuval-patel-6339382a6)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvalpatel04@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-yuval0408-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuval0408)
@@ -28,7 +27,7 @@ My work combines software engineering, artificial intelligence, product thinking
 ### Professional Focus
 
 - Artificial Intelligence & Machine Learning
-- Full Stack Development
+- Web Development
 - Cloud Engineering
 - Enterprise SaaS Applications
 - Product Engineering
