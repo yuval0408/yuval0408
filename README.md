@@ -267,21 +267,6 @@ Building software products, participating in hackathons, and developing real-wor
 
 </div>
 
-# Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
-
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-View_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-View_Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com)
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-View_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com)
-
-</div>
-
----
 
 # GitHub Analytics
 
