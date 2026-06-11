@@ -267,28 +267,6 @@ Building software products, participating in hackathons, and developing real-wor
 
 </div>
 
----
-
-# Certifications
-
-## AWS
-
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-## Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-## NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-4F46E5?style=for-the-badge)
-
-## Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
 # Coding Profiles
 
 <div align="center">
